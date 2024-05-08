@@ -60,3 +60,5 @@ void task( void* param){
 El resultado en el analizador lógico es el siguiente:
 
 ![blinking_leds](./imgs/LEDS_BLINKING.png)
+
+
